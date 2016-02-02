@@ -1,0 +1,9 @@
+{
+  "name": "IonicSeed",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.2.4",
+    "angular-ui-router": "~0.2.15",
+    "resources": "~0.0.2"
+  }
+}
