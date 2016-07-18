@@ -1,4 +1,4 @@
-module.exports = function ($scope, $cordovaStatusbar, $timeout) {
+module.exports = function ($scope, $timeout) {
 
 	console.log('Controller');
 

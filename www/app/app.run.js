@@ -1,7 +1,7 @@
-module.exports = function ($cordovaStatusbar, $ionicPlatform, $timeout) {
+module.exports = function ($ionicPlatform, $timeout) {
 
 	$ionicPlatform.ready(function() {
-		$cordovaStatusbar.show();
+		
 	});
 
 }
