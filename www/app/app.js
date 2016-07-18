@@ -1,4 +1,7 @@
 
+// Load Libs
+	var libs = require('./app.libs.js');
+
 // Init app
 	var app = angular.module('app', ['ui.router', 'ionic', 'ngCordova']);
 
